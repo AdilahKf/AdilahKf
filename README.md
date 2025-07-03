@@ -6,6 +6,7 @@
 
 ## 📌 Portofolio
 - 📁 [Project K-Means Clustering](https://github.com/AdilahKf/clustering-project)
+- 📁 [Project Bakery Analysis](https://github.com/AdilahKf/bakery-analysis)
 - 📁 [Inventaris Aset - Web App](https://github.com/AdilahKf/inventaris-aset)
 
 ## 📫 Kontak
