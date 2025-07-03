@@ -8,10 +8,6 @@
 - 📁 [Project K-Means Clustering](https://github.com/Adillah23/clustering-project)
 - 📁 [Inventaris Aset - Web App](https://github.com/Adillah23/inventaris-aset)
 
-## 🌱 Sedang Belajar
-- SQL dan Dashboarding dengan Tableau
-- Machine Learning Dasar (Scikit-learn)
-
 ## 📫 Kontak
 - Email: khusnulfikroh@email.com
 - LinkedIn: [www.linkedin.com/in/adilahkf](www.linkedin.com/in/adilahkf)
