@@ -2,7 +2,7 @@
 
 🎓 Mahasiswa S1 Sistem Informasi  
 💻 Tertarik pada: Data Analysis, Machine Learning, dan Web Development  
-📊 Proyek terakhir: [K-Means Clustering](https://github.com/AdilahKf/clustering-project)
+📊 Proyek terakhir: [Inventaris Aset - Web App](https://github.com/AdilahKf/inventaris-aset)
 
 ## 📌 Portofolio
 - 📁 [Project K-Means Clustering](https://github.com/AdilahKf/clustering-project)
