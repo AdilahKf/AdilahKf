@@ -1,8 +1,8 @@
-# Hi, I'm Adillah! 👋
+# Hi, I'm Adillah! >___<
 
-Mahasiswa S1 Sistem Informasi  
-Tertarik pada: Data Analysis, Machine Learning, dan Web Development  
-Project terakhir: [Inventaris Aset - Web App](https://github.com/AdilahKf/inventaris-aset)
+Sarjana S1 Sistem Informasi  
+Tertarik pada: Data Analysis dan Web Development  
+Project terakhir: [Retail Analisis - Dashboard](https://github.com/AdilahKf/retail-sales-analysis)
 
 ## Portofolio
 - [Project K-Means Clustering](https://github.com/AdilahKf/clustering-project)
